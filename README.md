@@ -52,6 +52,10 @@ We may require an oral exam in doubtful cases or whenever necessary.
 - Project list: *forthcoming*.
 - The template for the final project report is [here](https://github.com/erodola/DLAI-s2-2025/raw/main/template.zip).
 
+## Past exams 📑 
+
+Exam is now project-only, but you can still find some past theoretical questions [here](https://drive.google.com/drive/folders/1hwafIolYEOEjJYRnyKg2kodFqgKDZklZ)
+
 ## Lectures 🗣️
 
 **Date** | **Topic** | **Reading** | **Code & Data**
