@@ -60,4 +60,4 @@ Exam is now project-only, but you can still find some past theoretical questions
 
 **Date** | **Topic** | **Reading** | **Code & Data**
 ------------ | ------------- | ------------ | ------------
-Mon 03 Feb | Introduction | [slides (upcoming)] |
+Mon 03 Mar | Introduction | [slides (upcoming)] |
