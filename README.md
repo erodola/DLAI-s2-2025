@@ -15,7 +15,7 @@ Course material, 2nd semester a.y. 2024/2025, Dept. of Computer Science
 
 **Where:**
 
-Physical classroom: *to be confirmed*
+Physical classroom: Aula L1 - Castro Laurenziano (RM018-E01PTEL026)
 
 There is no virtual classroom, and the lectures will not be recorded.
 
