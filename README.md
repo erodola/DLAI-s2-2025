@@ -9,7 +9,7 @@ Course material, 2nd semester a.y. 2024/2025, Dept. of Computer Science
 
 **Lecturer:** Prof. Emanuele Rodolà
 
-**Assistants:** [Dr. Donato Crisostomi](https://github.com/crisostomi), [Dr. Daniele Solombrino](https://github.com/dansolombrino/)
+**Assistants:** [Dr. Daniele Solombrino](https://github.com/dansolombrino/), [Dr. Giorgio Strano](https://github.com/giorgioskij/)
 
 **When:** Mondays 14:00--16:00 and Tuesdays 13:00--16:00
 
