@@ -60,4 +60,6 @@ Exam is now project-only, but you can still find some past theoretical questions
 
 **Date** | **Topic** | **Reading** | **Code & Data**
 ------------ | ------------- | ------------ | ------------
-Mon 03 Mar | Introduction | [slides (upcoming)] |
+Mon 03 Mar | Introduction | [slides](https://github.com/erodola/DLAI-s2-2025/raw/main/01_intro/01-intro.pdf) |
+Tue 04 Mar | Data, features, and embeddings | [slides](https://github.com/erodola/DLAI-s2-2025/raw/main/02_data/02-data.pdf) ; [linear algebra recap](https://github.com/erodola/DLAI-s2-2025/raw/main/03_linalg/03-linalg.pdf) ; [matrix notes](https://github.com/erodola/DLAI-s2-2025/raw/main/03_linalg/03b-matrix.pdf) |
+
