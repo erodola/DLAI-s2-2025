@@ -62,4 +62,5 @@ Exam is now project-only, but you can still find some past theoretical questions
 ------------ | ------------- | ------------ | ------------
 Mon 03 Mar | Introduction | [slides](https://github.com/erodola/DLAI-s2-2025/raw/main/01_intro/01-intro.pdf) |
 Tue 04 Mar | Data, features, and embeddings | [slides](https://github.com/erodola/DLAI-s2-2025/raw/main/02_data/02-data.pdf) ; [linear algebra recap](https://github.com/erodola/DLAI-s2-2025/raw/main/03_linalg/03-linalg.pdf) ; [matrix notes](https://github.com/erodola/DLAI-s2-2025/raw/main/03_linalg/03b-matrix.pdf) |
-
+Mon 10 Mar | Linear regression, convexity, and gradients | [slides](https://github.com/erodola/DLAI-s2-2025/raw/main/04_linear/04-linear.pdf) |
+Tue 11 Mar | Tensor basics and Tensor operations | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2025/blob/main/labs/01_Tensor_basics.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2025/blob/main/labs/02_Tensor_operations.ipynb)
