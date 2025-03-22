@@ -3,7 +3,7 @@
 Course material, 2nd semester a.y. 2024/2025, Dept. of Computer Science
 
 ## News 🗞️
-- **07/02/2024:** The course website is online. Welcome to DLAI 2024/25! **The course will start on Mon 3rd March**.
+- **07/02/2025:** The course website is online. Welcome to DLAI 2024/25! **The course will start on Mon 3rd March**.
 
 ## Logistics 🧭
 
