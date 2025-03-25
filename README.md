@@ -30,11 +30,13 @@ Due to the continuously evolving nature of the topic, there is no fixed textbook
 In addition:
 
 - [here](https://drive.google.com/drive/folders/1NKU5nSAU-klicJEPxIiADDvuYbZF1Vpd) you can find video recordings of 2025 lectures
+- In the GitHub pages of the previous academic years you can find longer versions of some video lectures
+- [here](https://github.com/erodola/numMeth-s2-2022) you can find video recordings about topics that may come in handy when studying deep learning
 - [here](https://github.com/erodola/DLAI-s2-2022/raw/main/resources/Course_notes_Crisostomi.pdf) you can find some supplementary course notes
 - [here](https://github.com/FFMasterSlave/DLAI-alternative-notes/tree/main) you can find annotated slides
 - [here](https://github.com/dansolombrino/DLAI-2022-23) you can find Anki flashcards on theoretical and practical lectures
 
-All of the above are a kind contribution of past and present students.
+Thanks to past and present students for the kind contributions!
 
 **Accessibility 👁️‍🗨️**: Since last year, in an effort to create a more inclusive and accessible learning environment, all slides have been re-designed with readability in mind to support students with specific learning disabilities. We aim to ensure that everyone, regardless of learning differences, has equal access to the educational content provided. Should you need additional accommodations or have suggestions for further improving accessibility, please feel free to reach out.
 
