@@ -75,3 +75,5 @@ Mon 24 Mar | Stochastic gradient descent | [slides](https://github.com/erodola/D
 Tue 25 Mar | Logistic Regression and Optimization | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2025/blob/main/labs/04_Logistic_Regression_and_Optimization.ipynb)
 Mon 31 Mar | Multi-layer perceptron and back-propagation | [slides](https://github.com/erodola/DLAI-s2-2025/raw/main/07_mlp/07-mlp.pdf) |
 Tue 01 Apr | Autograd and Modules | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2025/blob/main/labs/05_Autograd_and_Modules.ipynb)
+Mon 07 Apr | Convolutional neural networks | [slides](https://github.com/erodola/DLAI-s2-2025/raw/main/08_cnn/08-cnn.pdf) |
+Tue 08 Apr | Convolutional neural networks | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2025/blob/main/labs/06_Convolutional_Neural_Networks.ipynb)
