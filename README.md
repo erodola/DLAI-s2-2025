@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2024/2025, Dept. of Computer Science
 
 ## News 🗞️
+- **06/04/2025:** The theoretical lecture of **07 April is cancelled** by Sapienza. Please watch the **recorded video lecture** (scroll down for link) as a replacement.
 - **30/03/2025:** This week, the theoretical lecture will take place on Tue (01 April). There will be lab both on Mon 31st and Tue 01st.
 - **07/02/2025:** The course website is online. Welcome to DLAI 2024/25! **The course will start on Mon 3rd March**.
 
@@ -75,5 +76,5 @@ Mon 24 Mar | Stochastic gradient descent | [slides](https://github.com/erodola/D
 Tue 25 Mar | Logistic Regression and Optimization | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2025/blob/main/labs/04_Logistic_Regression_and_Optimization.ipynb)
 Mon 31 Mar | Multi-layer perceptron and back-propagation | [slides](https://github.com/erodola/DLAI-s2-2025/raw/main/07_mlp/07-mlp.pdf) |
 Tue 01 Apr | Autograd and Modules | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2025/blob/main/labs/05_Autograd_and_Modules.ipynb)
-Mon 07 Apr | Convolutional neural networks | [slides](https://github.com/erodola/DLAI-s2-2025/raw/main/08_cnn/08-cnn.pdf) |
+Mon 07 Apr | Convolutional neural networks | [slides](https://github.com/erodola/DLAI-s2-2025/raw/main/08_cnn/08-cnn.pdf) [video](https://youtu.be/d7YMP-PnD7Y) |
 Tue 08 Apr | Convolutional neural networks | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2025/blob/main/labs/06_Convolutional_Neural_Networks.ipynb)
