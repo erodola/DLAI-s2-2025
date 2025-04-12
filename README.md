@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2024/2025, Dept. of Computer Science
 
 ## News 🗞️
+- **12/04/2025:** No lecture on April 21-22 due to **Easter holidays**.
 - **06/04/2025:** The theoretical lecture of **07 April is cancelled** by Sapienza. Please watch the **recorded video lecture** (scroll down for link) as a replacement.
 - **30/03/2025:** This week, the theoretical lecture will take place on Tue (01 April). There will be lab both on Mon 31st and Tue 01st.
 - **07/02/2025:** The course website is online. Welcome to DLAI 2024/25! **The course will start on Mon 3rd March**.
