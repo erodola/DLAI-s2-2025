@@ -78,3 +78,9 @@ Mon 31 Mar | Multi-layer perceptron and back-propagation | [slides](https://gith
 Tue 01 Apr | Autograd and Modules | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2025/blob/main/labs/05_Autograd_and_Modules.ipynb)
 Mon 07 Apr | Convolutional neural networks | [slides](https://github.com/erodola/DLAI-s2-2025/raw/main/08_cnn/08-cnn.pdf) [video](https://youtu.be/d7YMP-PnD7Y) |
 Tue 08 Apr | Convolutional neural networks | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2025/blob/main/labs/06_Convolutional_Neural_Networks.ipynb)
+Mon 14 Apr | Regularization, batchnorm and dropout | [slides](https://github.com/erodola/DLAI-s2-2025/raw/main/09_regular/09-regular.pdf) |
+Tue 15 Apr | Uncertainty, regularization and the deep learning toolset | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2025/blob/main/labs/07_Uncertainty_regularization_and_the_DL_toolset.ipynb)
+Mon 21 Apr | **Easter holidays** |  |  
+Tue 22 Apr | **Easter holidays** |  |  
+Mon 28 Apr | PCA and VAEs | *upcoming* |
+Tue 29 Apr | Variational Autoencoders | | *upcoming* 
