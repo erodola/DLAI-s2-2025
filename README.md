@@ -83,5 +83,5 @@ Mon 14 Apr | Regularization, batchnorm and dropout | [slides](https://github.com
 Tue 15 Apr | Uncertainty, regularization and the deep learning toolset ; Batchnorm and dropout | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2025/blob/main/labs/07_Uncertainty_regularization_and_the_DL_toolset.ipynb) ; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2025/blob/main/labs/07b_Batchnorm_and_dropout.ipynb)
 Mon 21 Apr | **Easter holidays** |  |  
 Tue 22 Apr | **Easter holidays** |  |  
-Mon 28 Apr | PCA and VAEs | *upcoming* |
+Mon 28 Apr | PCA and VAEs | [slides](https://github.com/erodola/DLAI-s2-2025/raw/main/10_pcavae/10-pcavae.pdf) |
 Tue 29 Apr | Variational Autoencoders | | *upcoming* 
