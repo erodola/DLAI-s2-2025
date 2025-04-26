@@ -84,4 +84,4 @@ Tue 15 Apr | Uncertainty, regularization and the deep learning toolset ; Batchno
 Mon 21 Apr | **Easter holidays** |  |  
 Tue 22 Apr | **Easter holidays** |  |  
 Mon 28 Apr | PCA and VAEs | [slides](https://github.com/erodola/DLAI-s2-2025/raw/main/10_pcavae/10-pcavae.pdf) |
-Tue 29 Apr | Variational Autoencoders | | *upcoming* 
+Tue 29 Apr | Variational Autoencoders | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2025/blob/main/labs/08_Variational_Autoencoders_(VAEs).ipynb) 
