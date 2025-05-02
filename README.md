@@ -85,5 +85,6 @@ Mon 21 Apr | **Easter holidays** |  |
 Tue 22 Apr | **Easter holidays** |  |  
 Mon 28 Apr | PCA and VAEs | [slides](https://github.com/erodola/DLAI-s2-2025/raw/main/10_pcavae/10-pcavae.pdf) |
 Tue 29 Apr | Variational Autoencoders | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2025/blob/main/labs/08_Variational_Autoencoders_(VAEs).ipynb) 
-Mon 05 May | VQ-VAE | | _notebook upcoming_ |
-Tue 06 May | Tools of the trade | _slides upcoming_ | | 
+Mon 05 May | Tools of the trade | _slides upcoming_ | | 
+Tue 06 May | VQ-VAE | | _notebook upcoming_ |
+
