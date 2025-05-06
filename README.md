@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2024/2025, Dept. of Computer Science
 
 ## News 🗞️
+- **06/05/2025:** Today's seminar is also livestreamed [here](https://meet.google.com/baq-jrkm-vpk). Video recording will be available later!
 - **12/04/2025:** No lecture on April 21-22 due to **Easter holidays**.
 - **06/04/2025:** The theoretical lecture of **07 April is cancelled** by Sapienza. Please watch the **recorded video lecture** (scroll down for link) as a replacement.
 - **30/03/2025:** This week, the theoretical lecture will take place on Tue (01 April). There will be lab both on Mon 31st and Tue 01st.
