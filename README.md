@@ -88,4 +88,5 @@ Mon 28 Apr | PCA and VAEs | [slides](https://github.com/erodola/DLAI-s2-2025/raw
 Tue 29 Apr | Variational Autoencoders | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2025/blob/main/labs/08_Variational_Autoencoders_(VAEs).ipynb) 
 Mon 05 May | VQ-VAE | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2025/blob/main/labs/08b_VQ-VAEs.ipynb) |
 Tue 06 May | Tools of the trade | [slides](https://github.com/erodola/DLAI-s2-2025/blob/main/99_toolset/DL-tools-of-the-trade.pdf) | | 
-
+Mon 12 May | Adversarial learning & Geometric deep learning | [slides](https://github.com/erodola/DLAI-s2-2025/raw/main/11_adversarial/11-advgdl.pdf) |
+Tue 13 May | Adversarial attacks, CycleGAN (*optional*), and Geometric deep learning (*optional*) | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2025/blob/main/labs/08_Variational_Autoencoders_(VAEs).ipynb)
