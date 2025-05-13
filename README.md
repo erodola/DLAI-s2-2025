@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2024/2025, Dept. of Computer Science
 
 ## News 🗞️
+- **13/05/2025:** The **list of projects** has been published. Scroll down for details.
 - **06/05/2025:** Today's seminar is also livestreamed [here](https://meet.google.com/baq-jrkm-vpk). Video recording will be available later!
 - **12/04/2025:** No lecture on April 21-22 due to **Easter holidays**.
 - **06/04/2025:** The theoretical lecture of **07 April is cancelled** by Sapienza. Please watch the **recorded video lecture** (scroll down for link) as a replacement.
@@ -51,14 +52,14 @@ Thanks to past and present students for the kind contributions!
 
 Evaluation proceeds according to the following steps:
 
-- A midterm self-evaluation test (optional, does not concur to the final grade)
 - A project (**mandatory**, accounts for 100% of the final grade)
-- An oral exam (optional, attributes at most 3 points, added to or subtracted from the final grade)
+- An oral exam (**optional**, attributes at most 3 points, added to or subtracted from the final grade)
 
 We may require an oral exam in doubtful cases or whenever necessary.
 
-- Project list: *forthcoming*.
+- Project list: Check the [google doc](https://docs.google.com/document/d/1p88d-M_QkYLfvvZfWKfyIEl2LB5Q1BnHj8aqSB2PdWA/edit?usp=sharing). Access to the document is restricted to students with a @studenti.uniroma1.it account; you must **request access** to it when you click the link.
 - The template for the final project report is [here](https://github.com/erodola/DLAI-s2-2025/raw/main/template.zip).
+- Please read the material above carefully!
 
 ## Past exams 📑 
 
