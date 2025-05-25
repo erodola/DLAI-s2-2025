@@ -49,7 +49,9 @@ Thanks to past and present students for the kind contributions!
 ## Grading 📊
 
 **Exam dates**
+
 Each exam session has **cutoff dates** for submitting the project. 
+
 Only projects that are (i) submitted *before* the cutoff date and (ii) registered on Infostud will be graded.
 
 - 18 June 2025 - *cutoff date 11 June*
