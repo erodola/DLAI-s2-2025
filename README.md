@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2024/2025, Dept. of Computer Science
 
 ## News 🗞️
+- **25/05/2025:** The **exam dates** are now published. Scroll down for details.
 - **13/05/2025:** The **list of projects** has been published. Scroll down for details.
 - **06/05/2025:** Today's seminar is also livestreamed [here](https://meet.google.com/baq-jrkm-vpk). Video recording will be available later!
 - **12/04/2025:** No lecture on April 21-22 due to **Easter holidays**.
@@ -48,7 +49,12 @@ Thanks to past and present students for the kind contributions!
 ## Grading 📊
 
 **Exam dates**
-*TBD*
+Each exam session has **cutoff dates** for submitting the project. 
+Only projects that are (i) submitted *before* the cutoff date and (ii) registered on Infostud will be graded.
+
+- 18 June 2025 - *cutoff date 11 June*
+- 15 July 2025 - *cutoff date 08 July*
+- 03 September 2025 - *cutoff date 27 August*
 
 Evaluation proceeds according to the following steps:
 
