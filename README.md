@@ -102,6 +102,6 @@ Tue 13 May | Adversarial attacks, CycleGAN (*optional*), and Geometric deep lear
 Mon 19 May | Diffusion models | [notes](https://github.com/erodola/DLAI-s2-2025/raw/main/12_diffusion/diffusion.pdf) ; [source](https://github.com/erodola/DLAI-s2-2025/raw/main/12_diffusion/diffusion.zip) |
 Tue 20 May | Diffusion models | [notes](https://github.com/erodola/DLAI-s2-2025/raw/main/12_diffusion/DDPM_notes.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2025/blob/main/labs/diffusionDDPM_notebook.ipynb)
 Mon 26 May | Self-attention and transformers | [slides](https://github.com/erodola/DLAI-s2-2025/raw/main/13_trans/13-trans.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2025/blob/main/labs/11_Transformers.ipynb)
-Tue 27 May | TBD |  | 
+Tue 27 May | Seminar, Donato Crisostomi: *Model Merging - What, Why, and How* |  | 
 
 **End**
