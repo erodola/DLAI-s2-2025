@@ -55,7 +55,7 @@ Each exam session has **cutoff dates** for submitting the project.
 Only projects that are (i) submitted *before* the cutoff date and (ii) registered on Infostud will be graded.
 
 - ~18 June 2025 - *cutoff date 11 June*~
-- 15 July 2025 - *cutoff date 08 July*
+- ~15 July 2025 - *cutoff date 08 July*~
 - 03 September 2025 - *cutoff date 27 August*
 
 Evaluation proceeds according to the following steps:
