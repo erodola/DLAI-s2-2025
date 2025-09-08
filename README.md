@@ -56,7 +56,7 @@ Only projects that are (i) submitted *before* the cutoff date and (ii) registere
 
 - ~18 June 2025 - *cutoff date 11 June*~
 - ~15 July 2025 - *cutoff date 08 July*~
-- 03 September 2025 - *cutoff date 27 August*
+- ~03 September 2025 - *cutoff date 27 August*~
 
 Evaluation proceeds according to the following steps:
 
